@@ -1,0 +1,107 @@
+{
+  "top_n": 20,
+  "total_words": 1369,
+  "unique_words": 663,
+  "words": [
+    {
+      "rank": 1,
+      "word": "and",
+      "count": 48
+    },
+    {
+      "rank": 2,
+      "word": "the",
+      "count": 29
+    },
+    {
+      "rank": 3,
+      "word": "a",
+      "count": 21
+    },
+    {
+      "rank": 4,
+      "word": "techabout",
+      "count": 21
+    },
+    {
+      "rank": 5,
+      "word": "com",
+      "count": 12
+    },
+    {
+      "rank": 6,
+      "word": "ai",
+      "count": 11
+    },
+    {
+      "rank": 7,
+      "word": "document",
+      "count": 11
+    },
+    {
+      "rank": 8,
+      "word": "record",
+      "count": 11
+    },
+    {
+      "rank": 9,
+      "word": "view",
+      "count": 11
+    },
+    {
+      "rank": 10,
+      "word": "website",
+      "count": 10
+    },
+    {
+      "rank": 11,
+      "word": "your",
+      "count": 10
+    },
+    {
+      "rank": 12,
+      "word": "data",
+      "count": 9
+    },
+    {
+      "rank": 13,
+      "word": "public",
+      "count": 9
+    },
+    {
+      "rank": 14,
+      "word": "services",
+      "count": 9
+    },
+    {
+      "rank": 15,
+      "word": "to",
+      "count": 9
+    },
+    {
+      "rank": 16,
+      "word": "web",
+      "count": 9
+    },
+    {
+      "rank": 17,
+      "word": "work",
+      "count": 9
+    },
+    {
+      "rank": 18,
+      "word": "cloud",
+      "count": 8
+    },
+    {
+      "rank": 19,
+      "word": "enterprise",
+      "count": 8
+    },
+    {
+      "rank": 20,
+      "word": "explore",
+      "count": 8
+    }
+  ]
+}

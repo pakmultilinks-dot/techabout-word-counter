@@ -1,0 +1,23 @@
+Top 20 most frequent words
+Total words: 1369 | Unique words: 663
+
+ 1. and         48
+ 2. the         29
+ 3. a           21
+ 4. techabout   21
+ 5. com         12
+ 6. ai          11
+ 7. document    11
+ 8. record      11
+ 9. view        11
+10. website     10
+11. your        10
+12. data        9
+13. public      9
+14. services    9
+15. to          9
+16. web         9
+17. work        9
+18. cloud       8
+19. enterprise  8
+20. explore     8
